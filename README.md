@@ -1,4 +1,6 @@
 ## William Gregory Johnson, PhD Candidate in Computer Science
-Georgia State University, Atlanta, GA </br>
+Department of Computer Science </br>
 Brains and Behavior Fellow, GSU Neuroscience Institute
-### Markdown
+### Georgia State University
+### 25 Park PL, STE 648
+### Atlanta, GA 30303
